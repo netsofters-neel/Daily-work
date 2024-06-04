@@ -7,4 +7,7 @@ eschool - erp -> try to setup project , server erorr , php version mismatch , pa
 
 -------------04-06-2024 ..
 
+sanal-darshan -> chnages of clinet , upload of chnages on server
+eschool - erp -> did setup on local
+ebroker - checking clinet issues
 
