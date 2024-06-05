@@ -11,3 +11,9 @@ sanal-darshan -> chnages of clinet , upload of chnages on server
 eschool - erp -> did setup on local
 ebroker - checking clinet issues
 
+-------------05-06-2024 ..
+halfday
+sanal-darshan -> chnages of clinet , upload of chnages on server
+eschool - erp -> done setup in hostinger
+ebroker - checking clinet issues
+
